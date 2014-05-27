@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-sass-nuget-unofficial",
+  "description": "Unofficial bootstrap-sass NuGet package ... well it's the only NuGet package at the moment!",
+  "version": "3.1.1",
+  "homepage": "https://github.com/jamez14/bootstrap-sass-nuget",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap-sass-official": "3.1.1"    
+  }
+}

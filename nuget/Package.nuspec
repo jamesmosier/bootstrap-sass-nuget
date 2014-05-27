@@ -16,8 +16,8 @@
         <tags>bootstrap sass mvc</tags>
     </metadata>
     <files>
-        <file src="..\vendor\assets\fonts\bootstrap\*" target="content\fonts" />
-        <file src="..\vendor\assets\stylesheets\**.scss" target="content\sass" />             
-        <file src="..\vendor\assets\javascripts\**.js" target="content\Scripts" />
+        <file src="..\bootstrap-sass-official\vendor\assets\fonts\bootstrap\*" target="content\fonts" />
+        <file src="..\bootstrap-sass-official\vendor\assets\stylesheets\**.scss" target="content\sass" />             
+        <file src="..\bootstrap-sass-official\vendor\assets\javascripts\**.js" target="content\Scripts" />
     </files>
 </package>
