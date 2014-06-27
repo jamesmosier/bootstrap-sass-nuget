@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Twitter.Bootstrap.Sass</id>
-        <version>3.1.02</version>
+        <version>3.2.0</version>
         <title>Bootstrap Sass Source</title>
         <authors>Thomas McDonald</authors>
         <owners>James Mosier</owners>
