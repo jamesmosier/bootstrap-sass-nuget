@@ -9,7 +9,6 @@ Based on source from [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
 
 I was going  to make this "*official*" and hopefully pull it into the [bootstrap-sass](https://github.com/twbs/bootstrap-sass) project, but perhaps Outercurve will do this instead? See [this issue on GitHub](https://github.com/twbs/bootstrap-sass/pull/583) for more info.
 
-<hr/>
 
 ## Release Notes
 
