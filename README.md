@@ -1,4 +1,4 @@
-bootstrap-sass-nuget (v 3.3.6)
+bootstrap-sass-nuget (v 3.3.7)
 ==============================
 
 Unofficial bootstrap-sass [NuGet package](https://www.nuget.org/packages/Twitter.Bootstrap.Sass/) ... well it's the only NuGet package at the moment for Bootstrap SASS!
@@ -12,7 +12,9 @@ I was going  to make this "*official*" and hopefully pull it into the [bootstrap
 
 ## Release Notes
 
-**Release Notes (v3.3.6):** Updated for release of Bootstrap 3.3.6 (source and sass).
+**Release Notes (v3.3.7)**: Updated for release of Bootstrap 3.3.6 (source and sass).
+
+Release Notes (v3.3.6): Updated for release of Bootstrap 3.3.6 (source and sass).
 
 Release Notes (v3.3.5): Updated for release of Bootstrap 3.3.5 (source and sass).
 
